@@ -1,0 +1,3 @@
+tar zcvf ABE.tar.gz ../ABElectronics_Python_Libraries/ADCPi/
+tar zcvf mag3110.tar.gz --exclude OUT  ../xloborg/ 
+
